@@ -1,3 +1,15 @@
+# This website is Deployed at 
+# gitrepos.surge.sh
+# How to Use Website
+Enter your github user name in text field .. e.g if your github account url is github.com/haris-nabeel  then write "haris-nabeel" without quotes in text field and hit the Button. You have your repos.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
